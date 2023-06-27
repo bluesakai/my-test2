@@ -3,3 +3,9 @@ mirror_to_github:
   stage: mirror
   only:
     - your_branch_name
+
+
+mirror_to_gitee:
+  stage: mirror
+  only:
+    - your_branch_name
