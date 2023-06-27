@@ -1,4 +1,4 @@
-test@6-27
+test@6-27-on-release
 mirror_to_github:
   stage: mirror
   only:
