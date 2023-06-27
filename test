@@ -1,1 +1,5 @@
 test@6-27
+mirror_to_github:
+  stage: mirror
+  only:
+    - your_branch_name
