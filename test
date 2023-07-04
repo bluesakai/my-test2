@@ -2,7 +2,7 @@ test@6-27-on-release
 mirror_to_github:
   stage: mirror
   only:
-    - your_branch_name
+    - main
 
 
 mirror_to_gitee:
