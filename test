@@ -9,4 +9,4 @@ mirror_to_github:
 mirror_to_gitee:
   stage: mirror
   only:
-    - your_branch_name2
+    - your_branch_name
