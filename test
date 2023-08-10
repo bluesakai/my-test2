@@ -6,6 +6,7 @@ mirror_to_github:
     - main
 
 #S5
+#bj
 mirror_to_gitee:
   stage: mirror
   only:
